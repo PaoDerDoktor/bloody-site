@@ -31,6 +31,12 @@ github_username:  PaoDerDoktor
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugins
+
+# Plugins settings
+  # Multiple languages
+languages: ["en", "fr"]
+default_locale_in_subfolder: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
