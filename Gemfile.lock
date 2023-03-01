@@ -261,6 +261,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-multiple-languages-plugin
   jekyll-relative-links (~> 0.6.1)
+  jekyll-remote-theme
   jekyll-sass-converter (~> 1.5)
   minima (~> 2.5)
   minitest (~> 5.17)
