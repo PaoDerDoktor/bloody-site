@@ -1,0 +1,11 @@
+site:
+    name: Le monde de Bloody
+    tagline : Sciences, Arts, Bêtises
+    description: Ben on est là quoi hein
+    keywords: Sciences, Arts, Bêtises
+
+main:
+    welcome:
+        anchor: Bienvenue
+        heading: Bienvenue dans le monde de Bloody
+        p1: C'est un joli premier paragraphe nan ?

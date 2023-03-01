@@ -1,0 +1,11 @@
+site:
+    name: Bloody's World
+    tagline : Sciences, Arts, Shenanigans
+    description: Well yeah we're here right
+    keywords: Sciences, Arts, Shenanigans
+
+main:
+    welcome:
+        anchor: Welcome
+        heading: Welcome in Bloody's World
+        p1: This is a cute little first paragraphe isn't it ?
